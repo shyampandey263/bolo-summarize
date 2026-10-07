@@ -1,0 +1,6 @@
+nemo-toolkit[asr]
+huggingface_hub
+langchain
+langchain-core
+langchain-openai
+gradio
