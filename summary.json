@@ -1,0 +1,52 @@
+{
+  "title": "Meeting Summary",
+  "summary": "In today's meeting, the discussion focused on the digital portal project. The total project cost is set at 500,000 INR, with 200,000 INR allocated for the first phase. Key deadlines include Rahul Sharma preparing the first prototype by October 12, and Priya Verma collecting and sending data from all departments by October 15. Training will commence on October 20 for 10 days, with Amit responsible for any corrections needed during this period. A training session for all employees is scheduled for October 31 at 11 AM, with approximately 50 employees expected to participate. The next meeting is set for November 5 at 3 PM.",
+  "key_points": [
+    "Total project cost is 500,000 INR.",
+    "200,000 INR to be released for the first phase.",
+    "First prototype by Rahul Sharma due on October 12.",
+    "Data collection by Priya Verma due on October 15.",
+    "Training starts on October 20 for 10 days."
+  ],
+  "action_items": [
+    {
+      "task": "Prepare the first prototype of the portal",
+      "owner": "Rahul Sharma",
+      "deadline": "October 12"
+    },
+    {
+      "task": "Collect and send data from all departments",
+      "owner": "Priya Verma",
+      "deadline": "October 15"
+    },
+    {
+      "task": "Ensure corrections during training period",
+      "owner": "Amit",
+      "deadline": "Not mentioned"
+    },
+    {
+      "task": "Conduct training session for all employees",
+      "owner": "Not mentioned",
+      "deadline": "October 31"
+    },
+    {
+      "task": "Complete work on time and report issues",
+      "owner": "Not mentioned",
+      "deadline": "One day before the next meeting"
+    },
+    {
+      "task": "Next meeting",
+      "owner": "Not mentioned",
+      "deadline": "November 5 at 3 PM"
+    }
+  ],
+  "numbers_and_dates": [
+    "500,000 INR",
+    "200,000 INR",
+    "October 12",
+    "October 15",
+    "October 20",
+    "October 31",
+    "November 5"
+  ]
+}
